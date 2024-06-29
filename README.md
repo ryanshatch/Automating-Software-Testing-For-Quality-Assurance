@@ -7,45 +7,53 @@
  * ******************************************************************************************
  * <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
  * <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><-->
-
+<hr>
 <h1>Software Testing and QA Automation</h1>
-
-<h2>Project Overview</h2>
-<p>This repository is a part of my coursework for CS-320, which focuses on Software Testing and QA Automation. It showcases my skills in creating automated tests and ensuring the quality of software projects. Below, you'll find details about the projects included and my reflections on what I've learned.</p>
-
+<!-- <h2>Project Overview</h2> -->
+<p><i>This repository focuses on Software Testing and QA Automation and showcases my knowledge in developing automated tests to ensure that the quality of the software meets all of the requirements and standards.<br><br>
+All of my work here has been authencitally signed and prepared for verification with checksums included.<br>
+<b>My public PGP key can be found at the bottom of this page.</b></i></p>
+<hr>
 <h2>Contents:</h2>
-<h3>Project One</h3>
+<h3>Testing with JUnit:</h3>
 <ul>
 <li>Contact.java</li>
 <li>ContactService.java</li>
-<li>ContactTest.java</li>
-<li>ContactServiceTest.java</li>
+<li><b>ContactTest.java</b></li>
+<li><b>ContactServiceTest.java</b></li>
 </ul>
 
-<h3>Project Two</h3>
+<h3>Documentation:</h3>
 <ul>
 <li>Summary and Reflections.docx</li>
 </ul>
 
-<p>These files highlight my proficiency in developing unit tests to identify errors, utilizing a various types of testing methods that are designed to be tailored to specific requirements, along with choosing the right testing strategies that would make sure that I  fulfill those requirements.</p>
+##
 
-<h2>Reflections on Key Questions</h2>
+<p><i>These files highlight my proficiency in developing unit tests in order to identify errors and also how to utilize different types of testing methods and strategies that are specifically designed and tailored to meet and fulfill all of the specific requirements expected from the program.</i></p>
+<hr>
+<h2>Reflection Q&A</h2>
 
 <h3>How can I ensure my software is functional and secure?</h3>
-<p>To maintain the functionality and security of my software, I implement a thorough testing process. This includes unit testing, as shown in Project One, alongside integration testing and continuous integration tools that automate tests after each update. I also conduct security assessments such as vulnerability scans and code reviews to ensure software integrity.</p>
+<p>To make sure that my software remains functional and secure, I like to follow a specific testing process which includes unit testing and integration testing. I also utilized continuous integration tools to automate tests with every update. I also performed vulnerability scans and code reviews to maintain the integrity of the software.</p>
+
+##
 
 <h3>How do I understand and meet user needs?</h3>
-<p>Understanding user needs starts with direct communication, like interviews or feedback sessions, and translating this input into user stories and requirements that drive the development. Involving users in the testing phase helps ensure the software meets their expectations and effectively addresses their issues.</p>
+<p>Understanding user needs starts with clear and direct forms of communication, like interviews or feedback sessions, and then translating what the user needs into user stories and requirements that end up driving the direction of the development. Involving users in the testing phase always is a good idea to help make positive that during development, the software is meeting all of the requirements and expectations while also being able to effectively addresses their issues as they may arise.</p>
+
+##
 
 <h3>What is my approach to software design?</h3>
-<p>My design approach emphasizes modularity, scalability, and maintainability. I follow SOLID principles and design patterns to make software that's easy to test, update, and modify. Adopting Test-Driven Development (TDD) integrates testing into every stage of the design process, enhancing the reliability and quality of the software.</p>
+<p>My personal approach to designing software usually emphasizes modularity, scalability, and maintainability. I try to always follow SOLID principles and design patterns to make software that is easy to test, update, and modify. Also, by adopting Test-Driven Development (TDD) integrates testing into every stage of the design process, which enhances the reliability and the quality of the software.</p>
+<hr>
 
 <h2>Practical Applications of Testing Techniques</h2>
-<p>In this repository, I've applied various testing techniques:</p>
+<!-- <p>In this repository, I've applied various testing techniques:</p> -->
 <ul>
-<li><strong>Boundary Value Analysis</strong>: Critical for testing limits on string lengths and numerical inputs in the services.</li>
-<li><strong>Equivalence Partitioning</strong>: Streamlines testing by grouping similar inputs to reduce test cases.</li>
-<li><strong>Exception Handling</strong>: Ensures the software handles incorrect or extreme inputs gracefully.</li>
+<li><strong>Boundary Value Analysis</strong>: Used to test the limits on string lengths and numerical inputs.</li>
+<li><strong>Equivalence Partitioning</strong>: Helps to streamline testing by grouping similar inputs to reduce test cases.</li>
+<li><strong>Exception Handling</strong>: Used to make sure that the software can catch and handle incorrect or extreme inputs.</li>
 </ul>
 
 <hr>
