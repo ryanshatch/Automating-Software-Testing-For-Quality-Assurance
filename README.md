@@ -8,7 +8,7 @@
  * <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
  * <><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><-->
 
-<h1>CS-320 Software Testing and QA Automation</h1>
+<h1>Software Testing and QA Automation</h1>
 
 <h2>Project Overview</h2>
 <p>This repository is a part of my coursework for CS-320, which focuses on Software Testing and QA Automation. It showcases my skills in creating automated tests and ensuring the quality of software projects. Below, you'll find details about the projects included and my reflections on what I've learned.</p>
